@@ -20,11 +20,11 @@
 
 #### 1.2 技术架构
 
-![](C:\Users\78697\Desktop\下载.png)
+![](images/技术架构.png)
 
 #### 1.3 系统架构图
 
-![](C:\Users\78697\Desktop\架构图.png)
+![](images/架构图.png)
 
 ### 2. 结构说明：
 
